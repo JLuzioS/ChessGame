@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chess4Android</string>
+    <string name="get_menu">Get Today Puzzle</string>
+    <string name="solve_menu">Solve Puzzle</string>
+    <string name="about_menu">About</string>
+    <string name="titleBuildVersion">Build Version</string>
+    <string name="titleDevelopers">Developers</string>
+    <string name="titleCredits">Credits</string>
+    <string name="Credits">Lichess.org for providing daily puzzles</string>
+    <string name="GetPuzzleErr">Puzzle Recover Error</string>
+    <string name="puzzle_menu">Puzzle History</string>
+    <string name="solved_puzzle_message">Puzzle solved</string>
+    <string name="unsolved_puzzle_message">Puzzle unsolved</string>
+    <string name="local_menu">Local</string>
+    <string name="online_menu">Multiplayer</string>
+    <string name="end_game">Game Ended</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chess4Android</string>
+    <string name="solve_menu">Resolver Puzzle</string>
+    <string name="about_menu">Sobre</string>
+    <string name="get_menu">Obter Puzzle do dia</string>
+    <string name="Credits">Lichess.org por disponibilizar puzzles diarios</string>
+    <string name="titleCredits">Créditos</string>
+    <string name="titleDevelopers">Programadores</string>
+    <string name="titleBuildVersion">Versão</string>
+    <string name="GetPuzzleErr">Erro ao Transferir Puzzle</string>
+    <string name="puzzle_menu">História dos Puzzles</string>
+    <string name="solved_puzzle_message">Puzzle resolvido</string>
+    <string name="unsolved_puzzle_message">Puzzle por resolver</string>
+    <string name="local_menu">Local</string>
+    <string name="online_menu">Multijogador</string>
+    <string name="end_game">Fim do Jogo</string>
+</resources>
